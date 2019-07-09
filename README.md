@@ -7,7 +7,7 @@ The Roundabout is the main structure of this project, contains the main logic of
 
 ## Gui
 
-![Roundabout](screenshot/roundabout.gif)
+![Roundabout](screenshots/roundabout.gif)
 
 ## Author
 
