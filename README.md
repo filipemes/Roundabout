@@ -2,7 +2,7 @@
 
 ## Concept
 
-The aim of this project is to implement a roundabout with multiple lanes and entrances/exits and vehicles behave independently and concurrently.
+This project aims to implement a roundabout with multiple lanes and entrances/exits and vehicles behave independently and concurrently.
 The Roundabout is the main structure of this project, contains the main logic of this project like car detection,  calculation of the shortest path, etc. For represention of the road network we used directed graph, allows us to represent all vertices.
 
 ## Gui
